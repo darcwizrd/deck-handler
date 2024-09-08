@@ -1,0 +1,22 @@
+{
+  "name": "deck-testing",
+  "version": "1.0.0",
+  "description": "A test on creating a manipulable deck of cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darcwizrd/deck-handler.git"
+  },
+  "author": "Bennoni Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darcwizrd/deck-handler/issues"
+  },
+  "homepage": "https://github.com/darcwizrd/deck-handler#readme",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
